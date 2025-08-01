@@ -207,6 +207,3 @@ arccos_button = tk.Button(root, text="Arccosine", command=arccos_button_click, f
 arccos_button.place(x=400, y=400)
 
 root.mainloop()
-
-
-
